@@ -66,9 +66,9 @@ const sessionOptions = {
 };
 
 //home route
-app.get("/", (req,res) =>{
-    res.send("hiiii");
-});
+// app.get("/", (req,res) =>{
+//     res.send("hiiii");
+// });
 
 
 
